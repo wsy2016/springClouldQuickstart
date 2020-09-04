@@ -19,5 +19,9 @@ SpringCloud快速入门系列主要涉及一下内容：
 
 分布式服务跟踪： Spring Cloud Sleuth
 
+分布式解决方案： 2PC(seata)  TCC(hmily)  可靠消息最终一致性(基于RocketMQ)  最大努力通知
+
+
+
 
 
